@@ -21,4 +21,4 @@ The system manages products of different categories (Software, Hardware and Devi
 
 ------
 
-Author: [Kaiser Mian Cabatingan](https://github.com/kaisermian)
+Author: [Juriel Botoy](https://github.com/JurYel)
